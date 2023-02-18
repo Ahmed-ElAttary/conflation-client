@@ -29,6 +29,14 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: linear-gradient(
+    to right top,
+    #1f0537,
+    #4a0e55,
+    #7c136f,
+    #b21383,
+    #eb1291
+  );
 }
 
 h1 {
